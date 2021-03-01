@@ -27,3 +27,7 @@ six>=1.14
 joblib
 memoized-property
 termcolor
+
+# Colleagues
+pip install git+https://github.com/julietahocsman/julietaproject
+pip install git+https://github.com/sanchiesa/second_project
